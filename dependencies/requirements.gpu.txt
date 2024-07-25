@@ -12,3 +12,4 @@ torchvision
 torchaudio
 sentence-transformers==2.5.1
 faiss_cpu==1.8.0
+linformer-pytorch==0.19.3
